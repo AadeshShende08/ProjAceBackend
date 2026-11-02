@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="BusinessManagement.Api/BusinessManagement.Api.csproj" />
+  <Project Path="BusinessManagement.Application/BusinessManagement.Application.csproj" />
+  <Project Path="BusinessManagement.Domain/BusinessManagement.Domain.csproj" />
+  <Project Path="BusinessManagement.Infrastructure/BusinessManagement.Infrastructure.csproj" />
+  <Project Path="BusinessManagement.IntegrationTests/BusinessManagement.IntegrationTests.csproj" />
+  <Project Path="BusinessManagement.UnitTests/BusinessManagement.UnitTests.csproj" />
+</Solution>
